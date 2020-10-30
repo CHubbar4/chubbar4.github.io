@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/CHubbar4/chubbar4.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CHubbar4/chubbar4.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="discription" content="Welcome to my Resume">
+    <title>Chris' Resume - Home</title>
+  </head>
+  <body style="background-color:white">
+    <header style="background-color:black">
+      <h1 style="color:white">Chris Hubbard's Resume</h1>
+      <hr/>
+      <a style="color:dodgerblue" href="WorkExperience.html">Work Experiences</a>
+      <a style="color:dodgerblue" href="Education.html">Education</a>
+      <a style="color:dodgerblue" href="EducationalExperience.html">Educational Experiences</a>
+      <a style="color:dodgerblue" href="About.html">About Me</a>
+    </header>
+    <hr/>
+      <main>
+        <article>
+          <h2 style="color:dodgerblue">Thank you for the opportunity, Trapp Technology!</h2>
+          <section>
+            <p style="color:darkslategrey">I really appreciate you all, even if I'm not selected for the position. This process alone has helped me realize just how promising my future is. More importantly, this has really made excited to keep learning about technology, programming, and the security of all of it. I have a newfound fire and passion for personal progress. I have never tried this hard for a potential work opportunity and this is all very exciting for me. I hope you appreciate it!</p>
+          </section>
+        </article>
+      </main>
+      <footer style="background-color:black">
+        <hr/>
+        <a style="color:dodgerblue" href="WorkExperience.html">Work Experiences</a>
+        <a style="color:dodgerblue" href="Education.html">Education</a>
+        <a style="color:dodgerblue" href="EducationalExperience.html">Educational Experiences</a>
+        <a style="color:dodgerblue" href="About.html">About Me</a>
+      </footer>
+  </body>
+</html>
